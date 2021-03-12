@@ -1,0 +1,59 @@
+@media screen and (min-device-width:522px) {
+	.pj0001 a img { width: 398px; height: 270px; padding: 40px 61px; }
+	.pj0002 a img { width: 350px; height: 503px; padding: 40px 85px; }
+	.pj0003 a img { width: 340px; height: 302px; padding: 40px 90px; }
+	.pj0004 a img { width: 400px; height: 231px; padding: 40px 60px; }
+
+	.lp01 { width: 520px; height: 347px; margin: 0; }
+	.bn01 { width: 520px; height: 537px; margin: 0; }
+	.bn02 { width: 520px; height: 347px; margin: 0; }
+	.photo-set.bn-s1 { width: 520px; height: 347px; }
+	.bn03 { position: absolute; height: 157px; margin: 0; left: 0; top: 0; }
+	.bn04 { position: absolute; height: 157px; margin: 0; left: 0; bottom: 0; }
+	.bn05 { position: absolute; height: 347px; margin: 0; right: 0; top: 0; }
+	#pj0001 .photo-set {
+		height: 1677px;
+	}
+	#pj0001 .photo-set img {
+		position: absolute;
+		margin: 0;
+	}
+	.fm01 { height: 157px; left: 0; top: 380px; }
+	.fm02 { width: 520px; height: 347px; top: 0; }
+	.fm03 { height: 157px; left: 0; top: 570px; }
+	.fm04 { height: 347px; right: 0; top: 380px; }
+	.fm05 { height: 157px; left: 0; top: 760px; }
+	.fm06 { height: 157px; right: 0; top: 760px; }
+	.fm07 { height: 157px; left: 0; top: 950px; }
+	.fm08 { height: 157px; right: 0; top: 950px; }
+	.fm09 { height: 157px; left: 0; top: 1140px; }
+	.fm10 { height: 347px; right: 0; top: 1140px; }
+	.fm11 { height: 157px; left: 0; top: 1330px; }
+	.fm12 { height: 157px; right: 0; bottom: 0; }
+	.fm13 { height: 157px; left: 0; bottom: 0; }
+
+	#pj0004 .photo-set {
+		height: 2057px;
+	}
+	#pj0004 .photo-set img {
+		position: absolute;
+		margin: 0;
+	}
+	.ms01 { width: 520px; height: 347px; top: 0; }
+	.ms02 { height: 157px; left: 0; top: 380px; }
+	.ms03 { height: 157px; right: 0; top: 380px; }
+	.ms04 { height: 157px; left: 0; top: 570px; }
+	.ms05 { height: 157px; right: 0; top: 570px; }
+	.ms06 { height: 157px; left: 0; top: 760px; }
+	.ms07 { height: 157px; right: 0; top: 760px; }
+	.ms08 { width: 520px; height: 347px; top: 950px; }
+	.ms09 { height: 157px; left: 0; top: 1330px; }
+	.ms10 { height: 347px; right: 0; top: 1330px; }
+	.ms11 { height: 157px; left: 0; top: 1520px; }
+	.ms12 { width: 520px; height: 347px; bottom: 0; }
+
+	.photo-set.set02 { width: 520px; height: 347px; }
+	.ele01 { position: absolute; height: 157px; margin: 0; left: 0; top: 0; }
+	.ele02 { position: absolute; height: 157px; margin: 0; left: 0; bottom: 0; }
+	.ele03 { position: absolute; height: 347px; margin: 0; right: 0; top: 0; }
+}
